@@ -1,4 +1,4 @@
-name: pcgenv
+name: difForgeXFMR
 channels:
   - pytorch
   - nvidia

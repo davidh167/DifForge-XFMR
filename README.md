@@ -36,11 +36,8 @@ We strongly recommend using a dedicated conda environment to manage dependencies
 3. **Activate the Environment:**
 
    ```bash
-   conda activate minecraftpcg-env
+   conda activate difForgeXFMR
    ```
-
-*(Replace `minecraftpcg-env` with the actual environment name specified in your `environment.yml`.)*
-
 ---
 ---
 
